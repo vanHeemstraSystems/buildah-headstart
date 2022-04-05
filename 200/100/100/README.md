@@ -41,7 +41,7 @@ $ podman machine set --rootful
 And/or:
 
 ```
-The system helper service is not installed; the default Docker API socket address can't be used by podman. If yoiu like to install it run the following command:
+The system helper service is not installed; the default Docker API socket address can't be used by podman. If you like to install it run the following command:
 
 $ sudo /usr/local/Cellar/podman/4.0.2/bin/podman-mac-helper install
 ```
